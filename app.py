@@ -1,1 +1,1 @@
-print("CI version 2!")
+print("Webhook CI test working!")
