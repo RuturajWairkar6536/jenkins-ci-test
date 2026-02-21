@@ -1,1 +1,1 @@
-print("build triggered from Github!")
+print("CI version 2!")
